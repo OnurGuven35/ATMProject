@@ -85,6 +85,7 @@ public class Atm {
                 System.out.println();
                 System.out.println("Tekrar Gorusmek Uzere ! ");
                 System.out.println();
+                break;
 
             } else {
 
